@@ -36,7 +36,7 @@ ul{
 }
 /* start header */
 .section img{
-    height: 650px;
+    /* height: 650px; */
     width: 100%;
 }
 .header .img-fluid{
@@ -534,9 +534,9 @@ footer a{
     header .header-bottom p {
         font-size: 18px;
     }
-    .section img {
+    /* .section img {
         height: 350px;
-    }
+    } */
     header .text-header h2 {
         font-size: 25px;
         line-height: 30px;
